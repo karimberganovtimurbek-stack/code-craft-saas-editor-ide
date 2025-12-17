@@ -2,22 +2,34 @@
 
 ![Demo App](/public/screenshot-for-readme.png)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
+[Youtubeda to'liq video joylashtirilgan](https://youtu.be/fGkRQgf6Scw)
 
-Highlights:
+# 🧩 CodeCraft – SaaS Code Editor (IDE)  
+Ushbu loyiha — foydalanuvchilarga onlayn tarzda kod yozish, saqlash, tahrirlash va o‘z loyihalarini boshqarish imkonini beruvchi zamonaviy SaaS (Software as a Service) platforma hisoblanadi. Loyiha Next.js asosida qurilgan bo‘lib, real vaqtli kod muharriri, foydalanuvchi autentifikatsiyasi, ma’lumotlar bazasi, shuningdek zamonaviy UI komponentlariga ega.
 
-- 🚀 Tech stack: Next.js 15 + Convex + Clerk + TypeScript
-- 💻 Online IDE with multi-language support (10 languages)
-- 🎨 Customizable experience with 5 VSCode themes
-- ✨ Smart output handling with Success & Error states
-- 💎 Flexible pricing with Free & Pro plans
-- 🤝 Community-driven code sharing system
-- 🔍 Advanced filtering & search capabilities
-- 👤 Personal profile with execution history tracking
-- 📊 Comprehensive statistics dashboard
-- ⚙️ Customizable font size controls
-- 🔗 Webhook integration support
-- 🌟 Professional deployment walkthrough
+## 🚀 Loyihaning maqsadi
+CodeCraft — dasturchilar uchun sodda, qulay va funksional onlayn muharrir yaratish.  
+Platforma orqali foydalanuvchilar:
+- Kod yozishi  
+- Loyihalarni saqlashi  
+- Real vaqt rejimida o‘zgarishlarni ko‘rishi  
+- Avtorizatsiya orqali o‘z profilinga kirishi  
+- Bulutda saqlangan kodlar bilan ishlashi  
+
+## 🛠 Ishlatilgan texnologiyalar
+
+### **Frontend**
+- **Next.js 15**
+- **React**
+- **TypeScript**
+- **TailwindCSS**
+- **ShadCN/UI**
+
+### **Backend & Servislar**
+- **Convex** – real-time database
+- **Clerk** – autentifikatsiya (login/register)
+- **CodeMirror** – kod muharriri
+- **Vercel** – deploy (ixtiyoriy)
 
 ### Setup .env file
 
